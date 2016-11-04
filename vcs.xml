@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/AmirAminiredi/order-servicegit" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/beredischool/order-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\user\Desktop\redischool-app-master\order-service" />
